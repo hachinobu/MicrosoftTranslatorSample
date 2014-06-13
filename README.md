@@ -1,0 +1,4 @@
+MicrosoftTranslatorSample
+=========================
+
+MicrosoftTranslatorを使ってみた
